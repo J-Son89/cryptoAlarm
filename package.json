@@ -1,0 +1,8 @@
+{
+  "name": "coinbaseTrigger",
+  "description": "coinbaseTrigger.js",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
